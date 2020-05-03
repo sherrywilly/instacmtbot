@@ -10,8 +10,8 @@
  
 ## Tutorial on Termux [ANDROID]
 	$ pkg upgrade && pkg update && pkg install git php
-	$ git clone https://github.com/D3V1Lh4x0r/INSTAGRAM-FEED-COMMENTER.git
-	$ cd INSTAGRAM-FEED-COMMENTER
+	$ git clone https://github.com/sherrywilly/instacmtbot.git
+	$ cd instacmtbot
 	$ php comment.php
 	
 	
