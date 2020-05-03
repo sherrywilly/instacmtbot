@@ -11,7 +11,6 @@ date_default_timezone_set('Asia/Kolkata');
  * ⚠ Use this Tool for personal use, not for sale.
  * ⚠ I am not responsible for your account using this tool.
  * ⚠ Make sure your account has been verified (Email & Telp).
- *
 **/
 header('Content-Type: text/html; charset=utf-8');
 error_reporting(0);
