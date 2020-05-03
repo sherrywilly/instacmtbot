@@ -32,7 +32,7 @@ if ($login['status'] == 'success') {
 
     );
     $comment = getComment();
-    $sleep = rand(0,10) + getComment('[?]  Sleep in Seconds ( RECOMMENDED 600 )  : ');
+     $sleep = rand(200,200) + getComment('[?]  Sleep in Seconds ( RECOMMENDED 25s )  : ');
 
        while (true) {
         $profile    = getHome($data_login);
